@@ -25,14 +25,14 @@ I'm Full Stack Developer currently pursuing my Bachelor's in Computer Science at
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifayousaf&show_icons=true&theme=radical&hide=contribs&custom_title=Contributions%20this%20year&custom_year=2024" alt="Muhammad Huzaifa Yousaf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifayousaf&show_icons=true&locale=en&hide=contribs,issues&theme=dark" alt="GitHub Stats" />
 </div>
 
 
 ## Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <!---
