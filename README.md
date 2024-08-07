@@ -42,7 +42,7 @@ I'm a passionate Full Stack Developer and Artificial Intelligence (AI) Enthusias
 ## Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 <!---
