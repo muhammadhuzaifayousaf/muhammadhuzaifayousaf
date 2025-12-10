@@ -52,13 +52,9 @@ I enjoy building modern web apps, working with React and Flutter, and exploring 
   <img src="https://github-readme-stats-git-masterorgs-githubstats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
----
-
 ## Contribution Snake
+![snake animation](https://raw.githubusercontent.com/muhammadhuzaifayousaf/muhammadhuzaifayousaf/output/snake.svg)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadhuzaifayousaf/muhammadhuzaifayousaf/output/github-contribution-grid-snake.svg" />
-</div>
 <!---
 muhammadhuzaifayousaf/muhammadhuzaifayousaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
