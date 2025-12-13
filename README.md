@@ -37,7 +37,7 @@ I enjoy building modern web apps, working with React and Flutter, and exploring 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterorgs-githubstats.vercel.app/api?username=muhammadhuzaifayousaf&show_icons=true&locale=en&hide=contribs,issues&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifayousaf&show_icons=true&locale=en&hide=contribs,issues&theme=dark" alt="GitHub Stats" />
 </div>
 
 ## GitHub Streak Stats
@@ -49,7 +49,7 @@ I enjoy building modern web apps, working with React and Flutter, and exploring 
 ## Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterorgs-githubstats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 ## Contribution Snake
