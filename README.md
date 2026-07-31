@@ -1,61 +1,165 @@
-# Hi there, I'm Muhammad Huzaifa Yousaf! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" width="25">
+<h1 align="center">
+Hi 👋, I'm Muhammad Huzaifa Yousaf
+</h1>
 
-I am a Full Stack Developer and AI Enthusiast currently pursuing BS Computer Science at <a href="https://nsu.edu.pk" target="_blank"><b>NSU Islamabad</b></a>.
-I enjoy building modern web apps, working with React and Flutter, and exploring Artificial Intelligence and Machine Learning.
+<h3 align="center">
+Computer Science Graduate • Full Stack Web Developer • AI Enthusiast
+</h3>
 
-- 🚀 Expanding my development experience with real world projects  
-- 💻 Sharpening problem solving and system design skills  
-- 🌟 Open to internships, freelance projects, and collaborations  
+<p align="center">
+Building modern web applications, intelligent AI solutions, and scalable software.
+</p>
 
----
+<p align="center">
 
-## Skills and Tools
+<img src="https://komarev.com/ghpvc/?username=muhammadhuzaifayousaf&style=for-the-badge&color=blue">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30" />
-</div>
+</p>
 
 ---
 
-## GitHub Stats
+# 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifayousaf&show_icons=true&locale=en&hide=contribs,issues&theme=dark" alt="GitHub Stats" />
-</div>
+🎓 BS Computer Science Graduate
 
-## GitHub Streak Stats
+💻 Full Stack Web Developer
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammadhuzaifayousaf&theme=dark" alt="GitHub Streak Stats" />
-</div>
+🤖 AI & Machine Learning Enthusiast
 
-## Most Used Languages
+🌐 Passionate about React, JavaScript, Node.js, Python and modern web technologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifayousaf&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</div>
+📱 Building responsive web applications and AI-powered solutions
 
-## Contribution Snake
-![snake animation](https://raw.githubusercontent.com/muhammadhuzaifayousaf/muhammadhuzaifayousaf/output/snake.svg)
+🚀 Currently exploring Generative AI, LLMs, System Design and Cloud Technologies
 
-<!---
-muhammadhuzaifayousaf/muhammadhuzaifayousaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Open to Full Time, Graduate Programs, Freelance and Collaboration opportunities
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-yousaf">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhuzaifayousaf">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammadhuzaifa63@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://muhammadhuzaifayousaf.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1Sw2m0NOjZUhSrKUiyFBqfBWkC6WIAXl1/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,dart,html,css"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask"/>
+
+</p>
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+### AI / Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=muhammadhuzaifayousaf&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhuzaifayousaf&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/muhammadhuzaifayousaf/muhammadhuzaifayousaf/output/snake.svg"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Code with purpose. Learn continuously. Build solutions that make an impact."
+
+---
+
+<p align="center">
+Thanks for visiting my profile ⭐
+</p>
